@@ -1,0 +1,3842 @@
+[
+  {
+    "SP": 0,
+    "Order": "BBQNNRKR"
+  },
+  {
+    "SP": 1,
+    "Order": "BQNBNRKR"
+  },
+  {
+    "SP": 2,
+    "Order": "BQNNRBKR"
+  },
+  {
+    "SP": 3,
+    "Order": "BQNNRKRB"
+  },
+  {
+    "SP": 4,
+    "Order": "QBBNNRKR"
+  },
+  {
+    "SP": 5,
+    "Order": "QNBBNRKR"
+  },
+  {
+    "SP": 6,
+    "Order": "QNBNRBKR"
+  },
+  {
+    "SP": 7,
+    "Order": "QNBNRKRB"
+  },
+  {
+    "SP": 8,
+    "Order": "QBNNBRKR"
+  },
+  {
+    "SP": 9,
+    "Order": "QNNBBRKR"
+  },
+  {
+    "SP": 10,
+    "Order": "QNNRBBKR"
+  },
+  {
+    "SP": 11,
+    "Order": "QNNRBKRB"
+  },
+  {
+    "SP": 12,
+    "Order": "QBNNRKBR"
+  },
+  {
+    "SP": 13,
+    "Order": "QNNBRKBR"
+  },
+  {
+    "SP": 14,
+    "Order": "QNNRKBBR"
+  },
+  {
+    "SP": 15,
+    "Order": "QNNRKRBB"
+  },
+  {
+    "SP": 16,
+    "Order": "BBNQNRKR"
+  },
+  {
+    "SP": 17,
+    "Order": "BNQBNRKR"
+  },
+  {
+    "SP": 18,
+    "Order": "BNQNRBKR"
+  },
+  {
+    "SP": 19,
+    "Order": "BNQNRKRB"
+  },
+  {
+    "SP": 20,
+    "Order": "NBBQNRKR"
+  },
+  {
+    "SP": 21,
+    "Order": "NQBBNRKR"
+  },
+  {
+    "SP": 22,
+    "Order": "NQBNRBKR"
+  },
+  {
+    "SP": 23,
+    "Order": "NQBNRKRB"
+  },
+  {
+    "SP": 24,
+    "Order": "NBQNBRKR"
+  },
+  {
+    "SP": 25,
+    "Order": "NQNBBRKR"
+  },
+  {
+    "SP": 26,
+    "Order": "NQNRBBKR"
+  },
+  {
+    "SP": 27,
+    "Order": "NQNRBKRB"
+  },
+  {
+    "SP": 28,
+    "Order": "NBQNRKBR"
+  },
+  {
+    "SP": 29,
+    "Order": "NQNBRKBR"
+  },
+  {
+    "SP": 30,
+    "Order": "NQNRKBBR"
+  },
+  {
+    "SP": 31,
+    "Order": "NQNRKRBB"
+  },
+  {
+    "SP": 32,
+    "Order": "BBNNQRKR"
+  },
+  {
+    "SP": 33,
+    "Order": "BNNBQRKR"
+  },
+  {
+    "SP": 34,
+    "Order": "BNNQRBKR"
+  },
+  {
+    "SP": 35,
+    "Order": "BNNQRKRB"
+  },
+  {
+    "SP": 36,
+    "Order": "NBBNQRKR"
+  },
+  {
+    "SP": 37,
+    "Order": "NNBBQRKR"
+  },
+  {
+    "SP": 38,
+    "Order": "NNBQRBKR"
+  },
+  {
+    "SP": 39,
+    "Order": "NNBQRKRB"
+  },
+  {
+    "SP": 40,
+    "Order": "NBNQBRKR"
+  },
+  {
+    "SP": 41,
+    "Order": "NNQBBRKR"
+  },
+  {
+    "SP": 42,
+    "Order": "NNQRBBKR"
+  },
+  {
+    "SP": 43,
+    "Order": "NNQRBKRB"
+  },
+  {
+    "SP": 44,
+    "Order": "NBNQRKBR"
+  },
+  {
+    "SP": 45,
+    "Order": "NNQBRKBR"
+  },
+  {
+    "SP": 46,
+    "Order": "NNQRKBBR"
+  },
+  {
+    "SP": 47,
+    "Order": "NNQRKRBB"
+  },
+  {
+    "SP": 48,
+    "Order": "BBNNRQKR"
+  },
+  {
+    "SP": 49,
+    "Order": "BNNBRQKR"
+  },
+  {
+    "SP": 50,
+    "Order": "BNNRQBKR"
+  },
+  {
+    "SP": 51,
+    "Order": "BNNRQKRB"
+  },
+  {
+    "SP": 52,
+    "Order": "NBBNRQKR"
+  },
+  {
+    "SP": 53,
+    "Order": "NNBBRQKR"
+  },
+  {
+    "SP": 54,
+    "Order": "NNBRQBKR"
+  },
+  {
+    "SP": 55,
+    "Order": "NNBRQKRB"
+  },
+  {
+    "SP": 56,
+    "Order": "NBNRBQKR"
+  },
+  {
+    "SP": 57,
+    "Order": "NNRBBQKR"
+  },
+  {
+    "SP": 58,
+    "Order": "NNRQBBKR"
+  },
+  {
+    "SP": 59,
+    "Order": "NNRQBKRB"
+  },
+  {
+    "SP": 60,
+    "Order": "NBNRQKBR"
+  },
+  {
+    "SP": 61,
+    "Order": "NNRBQKBR"
+  },
+  {
+    "SP": 62,
+    "Order": "NNRQKBBR"
+  },
+  {
+    "SP": 63,
+    "Order": "NNRQKRBB"
+  },
+  {
+    "SP": 64,
+    "Order": "BBNNRKQR"
+  },
+  {
+    "SP": 65,
+    "Order": "BNNBRKQR"
+  },
+  {
+    "SP": 66,
+    "Order": "BNNRKBQR"
+  },
+  {
+    "SP": 67,
+    "Order": "BNNRKQRB"
+  },
+  {
+    "SP": 68,
+    "Order": "NBBNRKQR"
+  },
+  {
+    "SP": 69,
+    "Order": "NNBBRKQR"
+  },
+  {
+    "SP": 70,
+    "Order": "NNBRKBQR"
+  },
+  {
+    "SP": 71,
+    "Order": "NNBRKQRB"
+  },
+  {
+    "SP": 72,
+    "Order": "NBNRBKQR"
+  },
+  {
+    "SP": 73,
+    "Order": "NNRBBKQR"
+  },
+  {
+    "SP": 74,
+    "Order": "NNRKBBQR"
+  },
+  {
+    "SP": 75,
+    "Order": "NNRKBQRB"
+  },
+  {
+    "SP": 76,
+    "Order": "NBNRKQBR"
+  },
+  {
+    "SP": 77,
+    "Order": "NNRBKQBR"
+  },
+  {
+    "SP": 78,
+    "Order": "NNRKQBBR"
+  },
+  {
+    "SP": 79,
+    "Order": "NNRKQRBB"
+  },
+  {
+    "SP": 80,
+    "Order": "BBNNRKRQ"
+  },
+  {
+    "SP": 81,
+    "Order": "BNNBRKRQ"
+  },
+  {
+    "SP": 82,
+    "Order": "BNNRKBRQ"
+  },
+  {
+    "SP": 83,
+    "Order": "BNNRKRQB"
+  },
+  {
+    "SP": 84,
+    "Order": "NBBNRKRQ"
+  },
+  {
+    "SP": 85,
+    "Order": "NNBBRKRQ"
+  },
+  {
+    "SP": 86,
+    "Order": "NNBRKBRQ"
+  },
+  {
+    "SP": 87,
+    "Order": "NNBRKRQB"
+  },
+  {
+    "SP": 88,
+    "Order": "NBNRBKRQ"
+  },
+  {
+    "SP": 89,
+    "Order": "NNRBBKRQ"
+  },
+  {
+    "SP": 90,
+    "Order": "NNRKBBRQ"
+  },
+  {
+    "SP": 91,
+    "Order": "NNRKBRQB"
+  },
+  {
+    "SP": 92,
+    "Order": "NBNRKRBQ"
+  },
+  {
+    "SP": 93,
+    "Order": "NNRBKRBQ"
+  },
+  {
+    "SP": 94,
+    "Order": "NNRKRBBQ"
+  },
+  {
+    "SP": 95,
+    "Order": "NNRKRQBB"
+  },
+  {
+    "SP": 96,
+    "Order": "BBQNRNKR"
+  },
+  {
+    "SP": 97,
+    "Order": "BQNBRNKR"
+  },
+  {
+    "SP": 98,
+    "Order": "BQNRNBKR"
+  },
+  {
+    "SP": 99,
+    "Order": "BQNRNKRB"
+  },
+  {
+    "SP": 100,
+    "Order": "QBBNRNKR"
+  },
+  {
+    "SP": 101,
+    "Order": "QNBBRNKR"
+  },
+  {
+    "SP": 102,
+    "Order": "QNBRNBKR"
+  },
+  {
+    "SP": 103,
+    "Order": "QNBRNKRB"
+  },
+  {
+    "SP": 104,
+    "Order": "QBNRBNKR"
+  },
+  {
+    "SP": 105,
+    "Order": "QNRBBNKR"
+  },
+  {
+    "SP": 106,
+    "Order": "QNRNBBKR"
+  },
+  {
+    "SP": 107,
+    "Order": "QNRNBKRB"
+  },
+  {
+    "SP": 108,
+    "Order": "QBNRNKBR"
+  },
+  {
+    "SP": 109,
+    "Order": "QNRBNKBR"
+  },
+  {
+    "SP": 110,
+    "Order": "QNRNKBBR"
+  },
+  {
+    "SP": 111,
+    "Order": "QNRNKRBB"
+  },
+  {
+    "SP": 112,
+    "Order": "BBNQRNKR"
+  },
+  {
+    "SP": 113,
+    "Order": "BNQBRNKR"
+  },
+  {
+    "SP": 114,
+    "Order": "BNQRNBKR"
+  },
+  {
+    "SP": 115,
+    "Order": "BNQRNKRB"
+  },
+  {
+    "SP": 116,
+    "Order": "NBBQRNKR"
+  },
+  {
+    "SP": 117,
+    "Order": "NQBBRNKR"
+  },
+  {
+    "SP": 118,
+    "Order": "NQBRNBKR"
+  },
+  {
+    "SP": 119,
+    "Order": "NQBRNKRB"
+  },
+  {
+    "SP": 120,
+    "Order": "NBQRBNKR"
+  },
+  {
+    "SP": 121,
+    "Order": "NQRBBNKR"
+  },
+  {
+    "SP": 122,
+    "Order": "NQRNBBKR"
+  },
+  {
+    "SP": 123,
+    "Order": "NQRNBKRB"
+  },
+  {
+    "SP": 124,
+    "Order": "NBQRNKBR"
+  },
+  {
+    "SP": 125,
+    "Order": "NQRBNKBR"
+  },
+  {
+    "SP": 126,
+    "Order": "NQRNKBBR"
+  },
+  {
+    "SP": 127,
+    "Order": "NQRNKRBB"
+  },
+  {
+    "SP": 128,
+    "Order": "BBNRQNKR"
+  },
+  {
+    "SP": 129,
+    "Order": "BNRBQNKR"
+  },
+  {
+    "SP": 130,
+    "Order": "BNRQNBKR"
+  },
+  {
+    "SP": 131,
+    "Order": "BNRQNKRB"
+  },
+  {
+    "SP": 132,
+    "Order": "NBBRQNKR"
+  },
+  {
+    "SP": 133,
+    "Order": "NRBBQNKR"
+  },
+  {
+    "SP": 134,
+    "Order": "NRBQNBKR"
+  },
+  {
+    "SP": 135,
+    "Order": "NRBQNKRB"
+  },
+  {
+    "SP": 136,
+    "Order": "NBRQBNKR"
+  },
+  {
+    "SP": 137,
+    "Order": "NRQBBNKR"
+  },
+  {
+    "SP": 138,
+    "Order": "NRQNBBKR"
+  },
+  {
+    "SP": 139,
+    "Order": "NRQNBKRB"
+  },
+  {
+    "SP": 140,
+    "Order": "NBRQNKBR"
+  },
+  {
+    "SP": 141,
+    "Order": "NRQBNKBR"
+  },
+  {
+    "SP": 142,
+    "Order": "NRQNKBBR"
+  },
+  {
+    "SP": 143,
+    "Order": "NRQNKRBB"
+  },
+  {
+    "SP": 144,
+    "Order": "BBNRNQKR"
+  },
+  {
+    "SP": 145,
+    "Order": "BNRBNQKR"
+  },
+  {
+    "SP": 146,
+    "Order": "BNRNQBKR"
+  },
+  {
+    "SP": 147,
+    "Order": "BNRNQKRB"
+  },
+  {
+    "SP": 148,
+    "Order": "NBBRNQKR"
+  },
+  {
+    "SP": 149,
+    "Order": "NRBBNQKR"
+  },
+  {
+    "SP": 150,
+    "Order": "NRBNQBKR"
+  },
+  {
+    "SP": 151,
+    "Order": "NRBNQKRB"
+  },
+  {
+    "SP": 152,
+    "Order": "NBRNBQKR"
+  },
+  {
+    "SP": 153,
+    "Order": "NRNBBQKR"
+  },
+  {
+    "SP": 154,
+    "Order": "NRNQBBKR"
+  },
+  {
+    "SP": 155,
+    "Order": "NRNQBKRB"
+  },
+  {
+    "SP": 156,
+    "Order": "NBRNQKBR"
+  },
+  {
+    "SP": 157,
+    "Order": "NRNBQKBR"
+  },
+  {
+    "SP": 158,
+    "Order": "NRNQKBBR"
+  },
+  {
+    "SP": 159,
+    "Order": "NRNQKRBB"
+  },
+  {
+    "SP": 160,
+    "Order": "BBNRNKQR"
+  },
+  {
+    "SP": 161,
+    "Order": "BNRBNKQR"
+  },
+  {
+    "SP": 162,
+    "Order": "BNRNKBQR"
+  },
+  {
+    "SP": 163,
+    "Order": "BNRNKQRB"
+  },
+  {
+    "SP": 164,
+    "Order": "NBBRNKQR"
+  },
+  {
+    "SP": 165,
+    "Order": "NRBBNKQR"
+  },
+  {
+    "SP": 166,
+    "Order": "NRBNKBQR"
+  },
+  {
+    "SP": 167,
+    "Order": "NRBNKQRB"
+  },
+  {
+    "SP": 168,
+    "Order": "NBRNBKQR"
+  },
+  {
+    "SP": 169,
+    "Order": "NRNBBKQR"
+  },
+  {
+    "SP": 170,
+    "Order": "NRNKBBQR"
+  },
+  {
+    "SP": 171,
+    "Order": "NRNKBQRB"
+  },
+  {
+    "SP": 172,
+    "Order": "NBRNKQBR"
+  },
+  {
+    "SP": 173,
+    "Order": "NRNBKQBR"
+  },
+  {
+    "SP": 174,
+    "Order": "NRNKQBBR"
+  },
+  {
+    "SP": 175,
+    "Order": "NRNKQRBB"
+  },
+  {
+    "SP": 176,
+    "Order": "BBNRNKRQ"
+  },
+  {
+    "SP": 177,
+    "Order": "BNRBNKRQ"
+  },
+  {
+    "SP": 178,
+    "Order": "BNRNKBRQ"
+  },
+  {
+    "SP": 179,
+    "Order": "BNRNKRQB"
+  },
+  {
+    "SP": 180,
+    "Order": "NBBRNKRQ"
+  },
+  {
+    "SP": 181,
+    "Order": "NRBBNKRQ"
+  },
+  {
+    "SP": 182,
+    "Order": "NRBNKBRQ"
+  },
+  {
+    "SP": 183,
+    "Order": "NRBNKRQB"
+  },
+  {
+    "SP": 184,
+    "Order": "NBRNBKRQ"
+  },
+  {
+    "SP": 185,
+    "Order": "NRNBBKRQ"
+  },
+  {
+    "SP": 186,
+    "Order": "NRNKBBRQ"
+  },
+  {
+    "SP": 187,
+    "Order": "NRNKBRQB"
+  },
+  {
+    "SP": 188,
+    "Order": "NBRNKRBQ"
+  },
+  {
+    "SP": 189,
+    "Order": "NRNBKRBQ"
+  },
+  {
+    "SP": 190,
+    "Order": "NRNKRBBQ"
+  },
+  {
+    "SP": 191,
+    "Order": "NRNKRQBB"
+  },
+  {
+    "SP": 192,
+    "Order": "BBQNRKNR"
+  },
+  {
+    "SP": 193,
+    "Order": "BQNBRKNR"
+  },
+  {
+    "SP": 194,
+    "Order": "BQNRKBNR"
+  },
+  {
+    "SP": 195,
+    "Order": "BQNRKNRB"
+  },
+  {
+    "SP": 196,
+    "Order": "QBBNRKNR"
+  },
+  {
+    "SP": 197,
+    "Order": "QNBBRKNR"
+  },
+  {
+    "SP": 198,
+    "Order": "QNBRKBNR"
+  },
+  {
+    "SP": 199,
+    "Order": "QNBRKNRB"
+  },
+  {
+    "SP": 200,
+    "Order": "QBNRBKNR"
+  },
+  {
+    "SP": 201,
+    "Order": "QNRBBKNR"
+  },
+  {
+    "SP": 202,
+    "Order": "QNRKBBNR"
+  },
+  {
+    "SP": 203,
+    "Order": "QNRKBNRB"
+  },
+  {
+    "SP": 204,
+    "Order": "QBNRKNBR"
+  },
+  {
+    "SP": 205,
+    "Order": "QNRBKNBR"
+  },
+  {
+    "SP": 206,
+    "Order": "QNRKNBBR"
+  },
+  {
+    "SP": 207,
+    "Order": "QNRKNRBB"
+  },
+  {
+    "SP": 208,
+    "Order": "BBNQRKNR"
+  },
+  {
+    "SP": 209,
+    "Order": "BNQBRKNR"
+  },
+  {
+    "SP": 210,
+    "Order": "BNQRKBNR"
+  },
+  {
+    "SP": 211,
+    "Order": "BNQRKNRB"
+  },
+  {
+    "SP": 212,
+    "Order": "NBBQRKNR"
+  },
+  {
+    "SP": 213,
+    "Order": "NQBBRKNR"
+  },
+  {
+    "SP": 214,
+    "Order": "NQBRKBNR"
+  },
+  {
+    "SP": 215,
+    "Order": "NQBRKNRB"
+  },
+  {
+    "SP": 216,
+    "Order": "NBQRBKNR"
+  },
+  {
+    "SP": 217,
+    "Order": "NQRBBKNR"
+  },
+  {
+    "SP": 218,
+    "Order": "NQRKBBNR"
+  },
+  {
+    "SP": 219,
+    "Order": "NQRKBNRB"
+  },
+  {
+    "SP": 220,
+    "Order": "NBQRKNBR"
+  },
+  {
+    "SP": 221,
+    "Order": "NQRBKNBR"
+  },
+  {
+    "SP": 222,
+    "Order": "NQRKNBBR"
+  },
+  {
+    "SP": 223,
+    "Order": "NQRKNRBB"
+  },
+  {
+    "SP": 224,
+    "Order": "BBNRQKNR"
+  },
+  {
+    "SP": 225,
+    "Order": "BNRBQKNR"
+  },
+  {
+    "SP": 226,
+    "Order": "BNRQKBNR"
+  },
+  {
+    "SP": 227,
+    "Order": "BNRQKNRB"
+  },
+  {
+    "SP": 228,
+    "Order": "NBBRQKNR"
+  },
+  {
+    "SP": 229,
+    "Order": "NRBBQKNR"
+  },
+  {
+    "SP": 230,
+    "Order": "NRBQKBNR"
+  },
+  {
+    "SP": 231,
+    "Order": "NRBQKNRB"
+  },
+  {
+    "SP": 232,
+    "Order": "NBRQBKNR"
+  },
+  {
+    "SP": 233,
+    "Order": "NRQBBKNR"
+  },
+  {
+    "SP": 234,
+    "Order": "NRQKBBNR"
+  },
+  {
+    "SP": 235,
+    "Order": "NRQKBNRB"
+  },
+  {
+    "SP": 236,
+    "Order": "NBRQKNBR"
+  },
+  {
+    "SP": 237,
+    "Order": "NRQBKNBR"
+  },
+  {
+    "SP": 238,
+    "Order": "NRQKNBBR"
+  },
+  {
+    "SP": 239,
+    "Order": "NRQKNRBB"
+  },
+  {
+    "SP": 240,
+    "Order": "BBNRKQNR"
+  },
+  {
+    "SP": 241,
+    "Order": "BNRBKQNR"
+  },
+  {
+    "SP": 242,
+    "Order": "BNRKQBNR"
+  },
+  {
+    "SP": 243,
+    "Order": "BNRKQNRB"
+  },
+  {
+    "SP": 244,
+    "Order": "NBBRKQNR"
+  },
+  {
+    "SP": 245,
+    "Order": "NRBBKQNR"
+  },
+  {
+    "SP": 246,
+    "Order": "NRBKQBNR"
+  },
+  {
+    "SP": 247,
+    "Order": "NRBKQNRB"
+  },
+  {
+    "SP": 248,
+    "Order": "NBRKBQNR"
+  },
+  {
+    "SP": 249,
+    "Order": "NRKBBQNR"
+  },
+  {
+    "SP": 250,
+    "Order": "NRKQBBNR"
+  },
+  {
+    "SP": 251,
+    "Order": "NRKQBNRB"
+  },
+  {
+    "SP": 252,
+    "Order": "NBRKQNBR"
+  },
+  {
+    "SP": 253,
+    "Order": "NRKBQNBR"
+  },
+  {
+    "SP": 254,
+    "Order": "NRKQNBBR"
+  },
+  {
+    "SP": 255,
+    "Order": "NRKQNRBB"
+  },
+  {
+    "SP": 256,
+    "Order": "BBNRKNQR"
+  },
+  {
+    "SP": 257,
+    "Order": "BNRBKNQR"
+  },
+  {
+    "SP": 258,
+    "Order": "BNRKNBQR"
+  },
+  {
+    "SP": 259,
+    "Order": "BNRKNQRB"
+  },
+  {
+    "SP": 260,
+    "Order": "NBBRKNQR"
+  },
+  {
+    "SP": 261,
+    "Order": "NRBBKNQR"
+  },
+  {
+    "SP": 262,
+    "Order": "NRBKNBQR"
+  },
+  {
+    "SP": 263,
+    "Order": "NRBKNQRB"
+  },
+  {
+    "SP": 264,
+    "Order": "NBRKBNQR"
+  },
+  {
+    "SP": 265,
+    "Order": "NRKBBNQR"
+  },
+  {
+    "SP": 266,
+    "Order": "NRKNBBQR"
+  },
+  {
+    "SP": 267,
+    "Order": "NRKNBQRB"
+  },
+  {
+    "SP": 268,
+    "Order": "NBRKNQBR"
+  },
+  {
+    "SP": 269,
+    "Order": "NRKBNQBR"
+  },
+  {
+    "SP": 270,
+    "Order": "NRKNQBBR"
+  },
+  {
+    "SP": 271,
+    "Order": "NRKNQRBB"
+  },
+  {
+    "SP": 272,
+    "Order": "BBNRKNRQ"
+  },
+  {
+    "SP": 273,
+    "Order": "BNRBKNRQ"
+  },
+  {
+    "SP": 274,
+    "Order": "BNRKNBRQ"
+  },
+  {
+    "SP": 275,
+    "Order": "BNRKNRQB"
+  },
+  {
+    "SP": 276,
+    "Order": "NBBRKNRQ"
+  },
+  {
+    "SP": 277,
+    "Order": "NRBBKNRQ"
+  },
+  {
+    "SP": 278,
+    "Order": "NRBKNBRQ"
+  },
+  {
+    "SP": 279,
+    "Order": "NRBKNRQB"
+  },
+  {
+    "SP": 280,
+    "Order": "NBRKBNRQ"
+  },
+  {
+    "SP": 281,
+    "Order": "NRKBBNRQ"
+  },
+  {
+    "SP": 282,
+    "Order": "NRKNBBRQ"
+  },
+  {
+    "SP": 283,
+    "Order": "NRKNBRQB"
+  },
+  {
+    "SP": 284,
+    "Order": "NBRKNRBQ"
+  },
+  {
+    "SP": 285,
+    "Order": "NRKBNRBQ"
+  },
+  {
+    "SP": 286,
+    "Order": "NRKNRBBQ"
+  },
+  {
+    "SP": 287,
+    "Order": "NRKNRQBB"
+  },
+  {
+    "SP": 288,
+    "Order": "BBQNRKRN"
+  },
+  {
+    "SP": 289,
+    "Order": "BQNBRKRN"
+  },
+  {
+    "SP": 290,
+    "Order": "BQNRKBRN"
+  },
+  {
+    "SP": 291,
+    "Order": "BQNRKRNB"
+  },
+  {
+    "SP": 292,
+    "Order": "QBBNRKRN"
+  },
+  {
+    "SP": 293,
+    "Order": "QNBBRKRN"
+  },
+  {
+    "SP": 294,
+    "Order": "QNBRKBRN"
+  },
+  {
+    "SP": 295,
+    "Order": "QNBRKRNB"
+  },
+  {
+    "SP": 296,
+    "Order": "QBNRBKRN"
+  },
+  {
+    "SP": 297,
+    "Order": "QNRBBKRN"
+  },
+  {
+    "SP": 298,
+    "Order": "QNRKBBRN"
+  },
+  {
+    "SP": 299,
+    "Order": "QNRKBRNB"
+  },
+  {
+    "SP": 300,
+    "Order": "QBNRKRBN"
+  },
+  {
+    "SP": 301,
+    "Order": "QNRBKRBN"
+  },
+  {
+    "SP": 302,
+    "Order": "QNRKRBBN"
+  },
+  {
+    "SP": 303,
+    "Order": "QNRKRNBB"
+  },
+  {
+    "SP": 304,
+    "Order": "BBNQRKRN"
+  },
+  {
+    "SP": 305,
+    "Order": "BNQBRKRN"
+  },
+  {
+    "SP": 306,
+    "Order": "BNQRKBRN"
+  },
+  {
+    "SP": 307,
+    "Order": "BNQRKRNB"
+  },
+  {
+    "SP": 308,
+    "Order": "NBBQRKRN"
+  },
+  {
+    "SP": 309,
+    "Order": "NQBBRKRN"
+  },
+  {
+    "SP": 310,
+    "Order": "NQBRKBRN"
+  },
+  {
+    "SP": 311,
+    "Order": "NQBRKRNB"
+  },
+  {
+    "SP": 312,
+    "Order": "NBQRBKRN"
+  },
+  {
+    "SP": 313,
+    "Order": "NQRBBKRN"
+  },
+  {
+    "SP": 314,
+    "Order": "NQRKBBRN"
+  },
+  {
+    "SP": 315,
+    "Order": "NQRKBRNB"
+  },
+  {
+    "SP": 316,
+    "Order": "NBQRKRBN"
+  },
+  {
+    "SP": 317,
+    "Order": "NQRBKRBN"
+  },
+  {
+    "SP": 318,
+    "Order": "NQRKRBBN"
+  },
+  {
+    "SP": 319,
+    "Order": "NQRKRNBB"
+  },
+  {
+    "SP": 320,
+    "Order": "BBNRQKRN"
+  },
+  {
+    "SP": 321,
+    "Order": "BNRBQKRN"
+  },
+  {
+    "SP": 322,
+    "Order": "BNRQKBRN"
+  },
+  {
+    "SP": 323,
+    "Order": "BNRQKRNB"
+  },
+  {
+    "SP": 324,
+    "Order": "NBBRQKRN"
+  },
+  {
+    "SP": 325,
+    "Order": "NRBBQKRN"
+  },
+  {
+    "SP": 326,
+    "Order": "NRBQKBRN"
+  },
+  {
+    "SP": 327,
+    "Order": "NRBQKRNB"
+  },
+  {
+    "SP": 328,
+    "Order": "NBRQBKRN"
+  },
+  {
+    "SP": 329,
+    "Order": "NRQBBKRN"
+  },
+  {
+    "SP": 330,
+    "Order": "NRQKBBRN"
+  },
+  {
+    "SP": 331,
+    "Order": "NRQKBRNB"
+  },
+  {
+    "SP": 332,
+    "Order": "NBRQKRBN"
+  },
+  {
+    "SP": 333,
+    "Order": "NRQBKRBN"
+  },
+  {
+    "SP": 334,
+    "Order": "NRQKRBBN"
+  },
+  {
+    "SP": 335,
+    "Order": "NRQKRNBB"
+  },
+  {
+    "SP": 336,
+    "Order": "BBNRKQRN"
+  },
+  {
+    "SP": 337,
+    "Order": "BNRBKQRN"
+  },
+  {
+    "SP": 338,
+    "Order": "BNRKQBRN"
+  },
+  {
+    "SP": 339,
+    "Order": "BNRKQRNB"
+  },
+  {
+    "SP": 340,
+    "Order": "NBBRKQRN"
+  },
+  {
+    "SP": 341,
+    "Order": "NRBBKQRN"
+  },
+  {
+    "SP": 342,
+    "Order": "NRBKQBRN"
+  },
+  {
+    "SP": 343,
+    "Order": "NRBKQRNB"
+  },
+  {
+    "SP": 344,
+    "Order": "NBRKBQRN"
+  },
+  {
+    "SP": 345,
+    "Order": "NRKBBQRN"
+  },
+  {
+    "SP": 346,
+    "Order": "NRKQBBRN"
+  },
+  {
+    "SP": 347,
+    "Order": "NRKQBRNB"
+  },
+  {
+    "SP": 348,
+    "Order": "NBRKQRBN"
+  },
+  {
+    "SP": 349,
+    "Order": "NRKBQRBN"
+  },
+  {
+    "SP": 350,
+    "Order": "NRKQRBBN"
+  },
+  {
+    "SP": 351,
+    "Order": "NRKQRNBB"
+  },
+  {
+    "SP": 352,
+    "Order": "BBNRKRQN"
+  },
+  {
+    "SP": 353,
+    "Order": "BNRBKRQN"
+  },
+  {
+    "SP": 354,
+    "Order": "BNRKRBQN"
+  },
+  {
+    "SP": 355,
+    "Order": "BNRKRQNB"
+  },
+  {
+    "SP": 356,
+    "Order": "NBBRKRQN"
+  },
+  {
+    "SP": 357,
+    "Order": "NRBBKRQN"
+  },
+  {
+    "SP": 358,
+    "Order": "NRBKRBQN"
+  },
+  {
+    "SP": 359,
+    "Order": "NRBKRQNB"
+  },
+  {
+    "SP": 360,
+    "Order": "NBRKBRQN"
+  },
+  {
+    "SP": 361,
+    "Order": "NRKBBRQN"
+  },
+  {
+    "SP": 362,
+    "Order": "NRKRBBQN"
+  },
+  {
+    "SP": 363,
+    "Order": "NRKRBQNB"
+  },
+  {
+    "SP": 364,
+    "Order": "NBRKRQBN"
+  },
+  {
+    "SP": 365,
+    "Order": "NRKBRQBN"
+  },
+  {
+    "SP": 366,
+    "Order": "NRKRQBBN"
+  },
+  {
+    "SP": 367,
+    "Order": "NRKRQNBB"
+  },
+  {
+    "SP": 368,
+    "Order": "BBNRKRNQ"
+  },
+  {
+    "SP": 369,
+    "Order": "BNRBKRNQ"
+  },
+  {
+    "SP": 370,
+    "Order": "BNRKRBNQ"
+  },
+  {
+    "SP": 371,
+    "Order": "BNRKRNQB"
+  },
+  {
+    "SP": 372,
+    "Order": "NBBRKRNQ"
+  },
+  {
+    "SP": 373,
+    "Order": "NRBBKRNQ"
+  },
+  {
+    "SP": 374,
+    "Order": "NRBKRBNQ"
+  },
+  {
+    "SP": 375,
+    "Order": "NRBKRNQB"
+  },
+  {
+    "SP": 376,
+    "Order": "NBRKBRNQ"
+  },
+  {
+    "SP": 377,
+    "Order": "NRKBBRNQ"
+  },
+  {
+    "SP": 378,
+    "Order": "NRKRBBNQ"
+  },
+  {
+    "SP": 379,
+    "Order": "NRKRBNQB"
+  },
+  {
+    "SP": 380,
+    "Order": "NBRKRNBQ"
+  },
+  {
+    "SP": 381,
+    "Order": "NRKBRNBQ"
+  },
+  {
+    "SP": 382,
+    "Order": "NRKRNBBQ"
+  },
+  {
+    "SP": 383,
+    "Order": "NRKRNQBB"
+  },
+  {
+    "SP": 384,
+    "Order": "BBQRNNKR"
+  },
+  {
+    "SP": 385,
+    "Order": "BQRBNNKR"
+  },
+  {
+    "SP": 386,
+    "Order": "BQRNNBKR"
+  },
+  {
+    "SP": 387,
+    "Order": "BQRNNKRB"
+  },
+  {
+    "SP": 388,
+    "Order": "QBBRNNKR"
+  },
+  {
+    "SP": 389,
+    "Order": "QRBBNNKR"
+  },
+  {
+    "SP": 390,
+    "Order": "QRBNNBKR"
+  },
+  {
+    "SP": 391,
+    "Order": "QRBNNKRB"
+  },
+  {
+    "SP": 392,
+    "Order": "QBRNBNKR"
+  },
+  {
+    "SP": 393,
+    "Order": "QRNBBNKR"
+  },
+  {
+    "SP": 394,
+    "Order": "QRNNBBKR"
+  },
+  {
+    "SP": 395,
+    "Order": "QRNNBKRB"
+  },
+  {
+    "SP": 396,
+    "Order": "QBRNNKBR"
+  },
+  {
+    "SP": 397,
+    "Order": "QRNBNKBR"
+  },
+  {
+    "SP": 398,
+    "Order": "QRNNKBBR"
+  },
+  {
+    "SP": 399,
+    "Order": "QRNNKRBB"
+  },
+  {
+    "SP": 400,
+    "Order": "BBRQNNKR"
+  },
+  {
+    "SP": 401,
+    "Order": "BRQBNNKR"
+  },
+  {
+    "SP": 402,
+    "Order": "BRQNNBKR"
+  },
+  {
+    "SP": 403,
+    "Order": "BRQNNKRB"
+  },
+  {
+    "SP": 404,
+    "Order": "RBBQNNKR"
+  },
+  {
+    "SP": 405,
+    "Order": "RQBBNNKR"
+  },
+  {
+    "SP": 406,
+    "Order": "RQBNNBKR"
+  },
+  {
+    "SP": 407,
+    "Order": "RQBNNKRB"
+  },
+  {
+    "SP": 408,
+    "Order": "RBQNBNKR"
+  },
+  {
+    "SP": 409,
+    "Order": "RQNBBNKR"
+  },
+  {
+    "SP": 410,
+    "Order": "RQNNBBKR"
+  },
+  {
+    "SP": 411,
+    "Order": "RQNNBKRB"
+  },
+  {
+    "SP": 412,
+    "Order": "RBQNNKBR"
+  },
+  {
+    "SP": 413,
+    "Order": "RQNBNKBR"
+  },
+  {
+    "SP": 414,
+    "Order": "RQNNKBBR"
+  },
+  {
+    "SP": 415,
+    "Order": "RQNNKRBB"
+  },
+  {
+    "SP": 416,
+    "Order": "BBRNQNKR"
+  },
+  {
+    "SP": 417,
+    "Order": "BRNBQNKR"
+  },
+  {
+    "SP": 418,
+    "Order": "BRNQNBKR"
+  },
+  {
+    "SP": 419,
+    "Order": "BRNQNKRB"
+  },
+  {
+    "SP": 420,
+    "Order": "RBBNQNKR"
+  },
+  {
+    "SP": 421,
+    "Order": "RNBBQNKR"
+  },
+  {
+    "SP": 422,
+    "Order": "RNBQNBKR"
+  },
+  {
+    "SP": 423,
+    "Order": "RNBQNKRB"
+  },
+  {
+    "SP": 424,
+    "Order": "RBNQBNKR"
+  },
+  {
+    "SP": 425,
+    "Order": "RNQBBNKR"
+  },
+  {
+    "SP": 426,
+    "Order": "RNQNBBKR"
+  },
+  {
+    "SP": 427,
+    "Order": "RNQNBKRB"
+  },
+  {
+    "SP": 428,
+    "Order": "RBNQNKBR"
+  },
+  {
+    "SP": 429,
+    "Order": "RNQBNKBR"
+  },
+  {
+    "SP": 430,
+    "Order": "RNQNKBBR"
+  },
+  {
+    "SP": 431,
+    "Order": "RNQNKRBB"
+  },
+  {
+    "SP": 432,
+    "Order": "BBRNNQKR"
+  },
+  {
+    "SP": 433,
+    "Order": "BRNBNQKR"
+  },
+  {
+    "SP": 434,
+    "Order": "BRNNQBKR"
+  },
+  {
+    "SP": 435,
+    "Order": "BRNNQKRB"
+  },
+  {
+    "SP": 436,
+    "Order": "RBBNNQKR"
+  },
+  {
+    "SP": 437,
+    "Order": "RNBBNQKR"
+  },
+  {
+    "SP": 438,
+    "Order": "RNBNQBKR"
+  },
+  {
+    "SP": 439,
+    "Order": "RNBNQKRB"
+  },
+  {
+    "SP": 440,
+    "Order": "RBNNBQKR"
+  },
+  {
+    "SP": 441,
+    "Order": "RNNBBQKR"
+  },
+  {
+    "SP": 442,
+    "Order": "RNNQBBKR"
+  },
+  {
+    "SP": 443,
+    "Order": "RNNQBKRB"
+  },
+  {
+    "SP": 444,
+    "Order": "RBNNQKBR"
+  },
+  {
+    "SP": 445,
+    "Order": "RNNBQKBR"
+  },
+  {
+    "SP": 446,
+    "Order": "RNNQKBBR"
+  },
+  {
+    "SP": 447,
+    "Order": "RNNQKRBB"
+  },
+  {
+    "SP": 448,
+    "Order": "BBRNNKQR"
+  },
+  {
+    "SP": 449,
+    "Order": "BRNBNKQR"
+  },
+  {
+    "SP": 450,
+    "Order": "BRNNKBQR"
+  },
+  {
+    "SP": 451,
+    "Order": "BRNNKQRB"
+  },
+  {
+    "SP": 452,
+    "Order": "RBBNNKQR"
+  },
+  {
+    "SP": 453,
+    "Order": "RNBBNKQR"
+  },
+  {
+    "SP": 454,
+    "Order": "RNBNKBQR"
+  },
+  {
+    "SP": 455,
+    "Order": "RNBNKQRB"
+  },
+  {
+    "SP": 456,
+    "Order": "RBNNBKQR"
+  },
+  {
+    "SP": 457,
+    "Order": "RNNBBKQR"
+  },
+  {
+    "SP": 458,
+    "Order": "RNNKBBQR"
+  },
+  {
+    "SP": 459,
+    "Order": "RNNKBQRB"
+  },
+  {
+    "SP": 460,
+    "Order": "RBNNKQBR"
+  },
+  {
+    "SP": 461,
+    "Order": "RNNBKQBR"
+  },
+  {
+    "SP": 462,
+    "Order": "RNNKQBBR"
+  },
+  {
+    "SP": 463,
+    "Order": "RNNKQRBB"
+  },
+  {
+    "SP": 464,
+    "Order": "BBRNNKRQ"
+  },
+  {
+    "SP": 465,
+    "Order": "BRNBNKRQ"
+  },
+  {
+    "SP": 466,
+    "Order": "BRNNKBRQ"
+  },
+  {
+    "SP": 467,
+    "Order": "BRNNKRQB"
+  },
+  {
+    "SP": 468,
+    "Order": "RBBNNKRQ"
+  },
+  {
+    "SP": 469,
+    "Order": "RNBBNKRQ"
+  },
+  {
+    "SP": 470,
+    "Order": "RNBNKBRQ"
+  },
+  {
+    "SP": 471,
+    "Order": "RNBNKRQB"
+  },
+  {
+    "SP": 472,
+    "Order": "RBNNBKRQ"
+  },
+  {
+    "SP": 473,
+    "Order": "RNNBBKRQ"
+  },
+  {
+    "SP": 474,
+    "Order": "RNNKBBRQ"
+  },
+  {
+    "SP": 475,
+    "Order": "RNNKBRQB"
+  },
+  {
+    "SP": 476,
+    "Order": "RBNNKRBQ"
+  },
+  {
+    "SP": 477,
+    "Order": "RNNBKRBQ"
+  },
+  {
+    "SP": 478,
+    "Order": "RNNKRBBQ"
+  },
+  {
+    "SP": 479,
+    "Order": "RNNKRQBB"
+  },
+  {
+    "SP": 480,
+    "Order": "BBQRNKNR"
+  },
+  {
+    "SP": 481,
+    "Order": "BQRBNKNR"
+  },
+  {
+    "SP": 482,
+    "Order": "BQRNKBNR"
+  },
+  {
+    "SP": 483,
+    "Order": "BQRNKNRB"
+  },
+  {
+    "SP": 484,
+    "Order": "QBBRNKNR"
+  },
+  {
+    "SP": 485,
+    "Order": "QRBBNKNR"
+  },
+  {
+    "SP": 486,
+    "Order": "QRBNKBNR"
+  },
+  {
+    "SP": 487,
+    "Order": "QRBNKNRB"
+  },
+  {
+    "SP": 488,
+    "Order": "QBRNBKNR"
+  },
+  {
+    "SP": 489,
+    "Order": "QRNBBKNR"
+  },
+  {
+    "SP": 490,
+    "Order": "QRNKBBNR"
+  },
+  {
+    "SP": 491,
+    "Order": "QRNKBNRB"
+  },
+  {
+    "SP": 492,
+    "Order": "QBRNKNBR"
+  },
+  {
+    "SP": 493,
+    "Order": "QRNBKNBR"
+  },
+  {
+    "SP": 494,
+    "Order": "QRNKNBBR"
+  },
+  {
+    "SP": 495,
+    "Order": "QRNKNRBB"
+  },
+  {
+    "SP": 496,
+    "Order": "BBRQNKNR"
+  },
+  {
+    "SP": 497,
+    "Order": "BRQBNKNR"
+  },
+  {
+    "SP": 498,
+    "Order": "BRQNKBNR"
+  },
+  {
+    "SP": 499,
+    "Order": "BRQNKNRB"
+  },
+  {
+    "SP": 500,
+    "Order": "RBBQNKNR"
+  },
+  {
+    "SP": 501,
+    "Order": "RQBBNKNR"
+  },
+  {
+    "SP": 502,
+    "Order": "RQBNKBNR"
+  },
+  {
+    "SP": 503,
+    "Order": "RQBNKNRB"
+  },
+  {
+    "SP": 504,
+    "Order": "RBQNBKNR"
+  },
+  {
+    "SP": 505,
+    "Order": "RQNBBKNR"
+  },
+  {
+    "SP": 506,
+    "Order": "RQNKBBNR"
+  },
+  {
+    "SP": 507,
+    "Order": "RQNKBNRB"
+  },
+  {
+    "SP": 508,
+    "Order": "RBQNKNBR"
+  },
+  {
+    "SP": 509,
+    "Order": "RQNBKNBR"
+  },
+  {
+    "SP": 510,
+    "Order": "RQNKNBBR"
+  },
+  {
+    "SP": 511,
+    "Order": "RQNKNRBB"
+  },
+  {
+    "SP": 512,
+    "Order": "BBRNQKNR"
+  },
+  {
+    "SP": 513,
+    "Order": "BRNBQKNR"
+  },
+  {
+    "SP": 514,
+    "Order": "BRNQKBNR"
+  },
+  {
+    "SP": 515,
+    "Order": "BRNQKNRB"
+  },
+  {
+    "SP": 516,
+    "Order": "RBBNQKNR"
+  },
+  {
+    "SP": 517,
+    "Order": "RNBBQKNR"
+  },
+  {
+    "SP": 518,
+    "Order": "RNBQKBNR"
+  },
+  {
+    "SP": 519,
+    "Order": "RNBQKNRB"
+  },
+  {
+    "SP": 520,
+    "Order": "RBNQBKNR"
+  },
+  {
+    "SP": 521,
+    "Order": "RNQBBKNR"
+  },
+  {
+    "SP": 522,
+    "Order": "RNQKBBNR"
+  },
+  {
+    "SP": 523,
+    "Order": "RNQKBNRB"
+  },
+  {
+    "SP": 524,
+    "Order": "RBNQKNBR"
+  },
+  {
+    "SP": 525,
+    "Order": "RNQBKNBR"
+  },
+  {
+    "SP": 526,
+    "Order": "RNQKNBBR"
+  },
+  {
+    "SP": 527,
+    "Order": "RNQKNRBB"
+  },
+  {
+    "SP": 528,
+    "Order": "BBRNKQNR"
+  },
+  {
+    "SP": 529,
+    "Order": "BRNBKQNR"
+  },
+  {
+    "SP": 530,
+    "Order": "BRNKQBNR"
+  },
+  {
+    "SP": 531,
+    "Order": "BRNKQNRB"
+  },
+  {
+    "SP": 532,
+    "Order": "RBBNKQNR"
+  },
+  {
+    "SP": 533,
+    "Order": "RNBBKQNR"
+  },
+  {
+    "SP": 534,
+    "Order": "RNBKQBNR"
+  },
+  {
+    "SP": 535,
+    "Order": "RNBKQNRB"
+  },
+  {
+    "SP": 536,
+    "Order": "RBNKBQNR"
+  },
+  {
+    "SP": 537,
+    "Order": "RNKBBQNR"
+  },
+  {
+    "SP": 538,
+    "Order": "RNKQBBNR"
+  },
+  {
+    "SP": 539,
+    "Order": "RNKQBNRB"
+  },
+  {
+    "SP": 540,
+    "Order": "RBNKQNBR"
+  },
+  {
+    "SP": 541,
+    "Order": "RNKBQNBR"
+  },
+  {
+    "SP": 542,
+    "Order": "RNKQNBBR"
+  },
+  {
+    "SP": 543,
+    "Order": "RNKQNRBB"
+  },
+  {
+    "SP": 544,
+    "Order": "BBRNKNQR"
+  },
+  {
+    "SP": 545,
+    "Order": "BRNBKNQR"
+  },
+  {
+    "SP": 546,
+    "Order": "BRNKNBQR"
+  },
+  {
+    "SP": 547,
+    "Order": "BRNKNQRB"
+  },
+  {
+    "SP": 548,
+    "Order": "RBBNKNQR"
+  },
+  {
+    "SP": 549,
+    "Order": "RNBBKNQR"
+  },
+  {
+    "SP": 550,
+    "Order": "RNBKNBQR"
+  },
+  {
+    "SP": 551,
+    "Order": "RNBKNQRB"
+  },
+  {
+    "SP": 552,
+    "Order": "RBNKBNQR"
+  },
+  {
+    "SP": 553,
+    "Order": "RNKBBNQR"
+  },
+  {
+    "SP": 554,
+    "Order": "RNKNBBQR"
+  },
+  {
+    "SP": 555,
+    "Order": "RNKNBQRB"
+  },
+  {
+    "SP": 556,
+    "Order": "RBNKNQBR"
+  },
+  {
+    "SP": 557,
+    "Order": "RNKBNQBR"
+  },
+  {
+    "SP": 558,
+    "Order": "RNKNQBBR"
+  },
+  {
+    "SP": 559,
+    "Order": "RNKNQRBB"
+  },
+  {
+    "SP": 560,
+    "Order": "BBRNKNRQ"
+  },
+  {
+    "SP": 561,
+    "Order": "BRNBKNRQ"
+  },
+  {
+    "SP": 562,
+    "Order": "BRNKNBRQ"
+  },
+  {
+    "SP": 563,
+    "Order": "BRNKNRQB"
+  },
+  {
+    "SP": 564,
+    "Order": "RBBNKNRQ"
+  },
+  {
+    "SP": 565,
+    "Order": "RNBBKNRQ"
+  },
+  {
+    "SP": 566,
+    "Order": "RNBKNBRQ"
+  },
+  {
+    "SP": 567,
+    "Order": "RNBKNRQB"
+  },
+  {
+    "SP": 568,
+    "Order": "RBNKBNRQ"
+  },
+  {
+    "SP": 569,
+    "Order": "RNKBBNRQ"
+  },
+  {
+    "SP": 570,
+    "Order": "RNKNBBRQ"
+  },
+  {
+    "SP": 571,
+    "Order": "RNKNBRQB"
+  },
+  {
+    "SP": 572,
+    "Order": "RBNKNRBQ"
+  },
+  {
+    "SP": 573,
+    "Order": "RNKBNRBQ"
+  },
+  {
+    "SP": 574,
+    "Order": "RNKNRBBQ"
+  },
+  {
+    "SP": 575,
+    "Order": "RNKNRQBB"
+  },
+  {
+    "SP": 576,
+    "Order": "BBQRNKRN"
+  },
+  {
+    "SP": 577,
+    "Order": "BQRBNKRN"
+  },
+  {
+    "SP": 578,
+    "Order": "BQRNKBRN"
+  },
+  {
+    "SP": 579,
+    "Order": "BQRNKRNB"
+  },
+  {
+    "SP": 580,
+    "Order": "QBBRNKRN"
+  },
+  {
+    "SP": 581,
+    "Order": "QRBBNKRN"
+  },
+  {
+    "SP": 582,
+    "Order": "QRBNKBRN"
+  },
+  {
+    "SP": 583,
+    "Order": "QRBNKRNB"
+  },
+  {
+    "SP": 584,
+    "Order": "QBRNBKRN"
+  },
+  {
+    "SP": 585,
+    "Order": "QRNBBKRN"
+  },
+  {
+    "SP": 586,
+    "Order": "QRNKBBRN"
+  },
+  {
+    "SP": 587,
+    "Order": "QRNKBRNB"
+  },
+  {
+    "SP": 588,
+    "Order": "QBRNKRBN"
+  },
+  {
+    "SP": 589,
+    "Order": "QRNBKRBN"
+  },
+  {
+    "SP": 590,
+    "Order": "QRNKRBBN"
+  },
+  {
+    "SP": 591,
+    "Order": "QRNKRNBB"
+  },
+  {
+    "SP": 592,
+    "Order": "BBRQNKRN"
+  },
+  {
+    "SP": 593,
+    "Order": "BRQBNKRN"
+  },
+  {
+    "SP": 594,
+    "Order": "BRQNKBRN"
+  },
+  {
+    "SP": 595,
+    "Order": "BRQNKRNB"
+  },
+  {
+    "SP": 596,
+    "Order": "RBBQNKRN"
+  },
+  {
+    "SP": 597,
+    "Order": "RQBBNKRN"
+  },
+  {
+    "SP": 598,
+    "Order": "RQBNKBRN"
+  },
+  {
+    "SP": 599,
+    "Order": "RQBNKRNB"
+  },
+  {
+    "SP": 600,
+    "Order": "RBQNBKRN"
+  },
+  {
+    "SP": 601,
+    "Order": "RQNBBKRN"
+  },
+  {
+    "SP": 602,
+    "Order": "RQNKBBRN"
+  },
+  {
+    "SP": 603,
+    "Order": "RQNKBRNB"
+  },
+  {
+    "SP": 604,
+    "Order": "RBQNKRBN"
+  },
+  {
+    "SP": 605,
+    "Order": "RQNBKRBN"
+  },
+  {
+    "SP": 606,
+    "Order": "RQNKRBBN"
+  },
+  {
+    "SP": 607,
+    "Order": "RQNKRNBB"
+  },
+  {
+    "SP": 608,
+    "Order": "BBRNQKRN"
+  },
+  {
+    "SP": 609,
+    "Order": "BRNBQKRN"
+  },
+  {
+    "SP": 610,
+    "Order": "BRNQKBRN"
+  },
+  {
+    "SP": 611,
+    "Order": "BRNQKRNB"
+  },
+  {
+    "SP": 612,
+    "Order": "RBBNQKRN"
+  },
+  {
+    "SP": 613,
+    "Order": "RNBBQKRN"
+  },
+  {
+    "SP": 614,
+    "Order": "RNBQKBRN"
+  },
+  {
+    "SP": 615,
+    "Order": "RNBQKRNB"
+  },
+  {
+    "SP": 616,
+    "Order": "RBNQBKRN"
+  },
+  {
+    "SP": 617,
+    "Order": "RNQBBKRN"
+  },
+  {
+    "SP": 618,
+    "Order": "RNQKBBRN"
+  },
+  {
+    "SP": 619,
+    "Order": "RNQKBRNB"
+  },
+  {
+    "SP": 620,
+    "Order": "RBNQKRBN"
+  },
+  {
+    "SP": 621,
+    "Order": "RNQBKRBN"
+  },
+  {
+    "SP": 622,
+    "Order": "RNQKRBBN"
+  },
+  {
+    "SP": 623,
+    "Order": "RNQKRNBB"
+  },
+  {
+    "SP": 624,
+    "Order": "BBRNKQRN"
+  },
+  {
+    "SP": 625,
+    "Order": "BRNBKQRN"
+  },
+  {
+    "SP": 626,
+    "Order": "BRNKQBRN"
+  },
+  {
+    "SP": 627,
+    "Order": "BRNKQRNB"
+  },
+  {
+    "SP": 628,
+    "Order": "RBBNKQRN"
+  },
+  {
+    "SP": 629,
+    "Order": "RNBBKQRN"
+  },
+  {
+    "SP": 630,
+    "Order": "RNBKQBRN"
+  },
+  {
+    "SP": 631,
+    "Order": "RNBKQRNB"
+  },
+  {
+    "SP": 632,
+    "Order": "RBNKBQRN"
+  },
+  {
+    "SP": 633,
+    "Order": "RNKBBQRN"
+  },
+  {
+    "SP": 634,
+    "Order": "RNKQBBRN"
+  },
+  {
+    "SP": 635,
+    "Order": "RNKQBRNB"
+  },
+  {
+    "SP": 636,
+    "Order": "RBNKQRBN"
+  },
+  {
+    "SP": 637,
+    "Order": "RNKBQRBN"
+  },
+  {
+    "SP": 638,
+    "Order": "RNKQRBBN"
+  },
+  {
+    "SP": 639,
+    "Order": "RNKQRNBB"
+  },
+  {
+    "SP": 640,
+    "Order": "BBRNKRQN"
+  },
+  {
+    "SP": 641,
+    "Order": "BRNBKRQN"
+  },
+  {
+    "SP": 642,
+    "Order": "BRNKRBQN"
+  },
+  {
+    "SP": 643,
+    "Order": "BRNKRQNB"
+  },
+  {
+    "SP": 644,
+    "Order": "RBBNKRQN"
+  },
+  {
+    "SP": 645,
+    "Order": "RNBBKRQN"
+  },
+  {
+    "SP": 646,
+    "Order": "RNBKRBQN"
+  },
+  {
+    "SP": 647,
+    "Order": "RNBKRQNB"
+  },
+  {
+    "SP": 648,
+    "Order": "RBNKBRQN"
+  },
+  {
+    "SP": 649,
+    "Order": "RNKBBRQN"
+  },
+  {
+    "SP": 650,
+    "Order": "RNKRBBQN"
+  },
+  {
+    "SP": 651,
+    "Order": "RNKRBQNB"
+  },
+  {
+    "SP": 652,
+    "Order": "RBNKRQBN"
+  },
+  {
+    "SP": 653,
+    "Order": "RNKBRQBN"
+  },
+  {
+    "SP": 654,
+    "Order": "RNKRQBBN"
+  },
+  {
+    "SP": 655,
+    "Order": "RNKRQNBB"
+  },
+  {
+    "SP": 656,
+    "Order": "BBRNKRNQ"
+  },
+  {
+    "SP": 657,
+    "Order": "BRNBKRNQ"
+  },
+  {
+    "SP": 658,
+    "Order": "BRNKRBNQ"
+  },
+  {
+    "SP": 659,
+    "Order": "BRNKRNQB"
+  },
+  {
+    "SP": 660,
+    "Order": "RBBNKRNQ"
+  },
+  {
+    "SP": 661,
+    "Order": "RNBBKRNQ"
+  },
+  {
+    "SP": 662,
+    "Order": "RNBKRBNQ"
+  },
+  {
+    "SP": 663,
+    "Order": "RNBKRNQB"
+  },
+  {
+    "SP": 664,
+    "Order": "RBNKBRNQ"
+  },
+  {
+    "SP": 665,
+    "Order": "RNKBBRNQ"
+  },
+  {
+    "SP": 666,
+    "Order": "RNKRBBNQ"
+  },
+  {
+    "SP": 667,
+    "Order": "RNKRBNQB"
+  },
+  {
+    "SP": 668,
+    "Order": "RBNKRNBQ"
+  },
+  {
+    "SP": 669,
+    "Order": "RNKBRNBQ"
+  },
+  {
+    "SP": 670,
+    "Order": "RNKRNBBQ"
+  },
+  {
+    "SP": 671,
+    "Order": "RNKRNQBB"
+  },
+  {
+    "SP": 672,
+    "Order": "BBQRKNNR"
+  },
+  {
+    "SP": 673,
+    "Order": "BQRBKNNR"
+  },
+  {
+    "SP": 674,
+    "Order": "BQRKNBNR"
+  },
+  {
+    "SP": 675,
+    "Order": "BQRKNNRB"
+  },
+  {
+    "SP": 676,
+    "Order": "QBBRKNNR"
+  },
+  {
+    "SP": 677,
+    "Order": "QRBBKNNR"
+  },
+  {
+    "SP": 678,
+    "Order": "QRBKNBNR"
+  },
+  {
+    "SP": 679,
+    "Order": "QRBKNNRB"
+  },
+  {
+    "SP": 680,
+    "Order": "QBRKBNNR"
+  },
+  {
+    "SP": 681,
+    "Order": "QRKBBNNR"
+  },
+  {
+    "SP": 682,
+    "Order": "QRKNBBNR"
+  },
+  {
+    "SP": 683,
+    "Order": "QRKNBNRB"
+  },
+  {
+    "SP": 684,
+    "Order": "QBRKNNBR"
+  },
+  {
+    "SP": 685,
+    "Order": "QRKBNNBR"
+  },
+  {
+    "SP": 686,
+    "Order": "QRKNNBBR"
+  },
+  {
+    "SP": 687,
+    "Order": "QRKNNRBB"
+  },
+  {
+    "SP": 688,
+    "Order": "BBRQKNNR"
+  },
+  {
+    "SP": 689,
+    "Order": "BRQBKNNR"
+  },
+  {
+    "SP": 690,
+    "Order": "BRQKNBNR"
+  },
+  {
+    "SP": 691,
+    "Order": "BRQKNNRB"
+  },
+  {
+    "SP": 692,
+    "Order": "RBBQKNNR"
+  },
+  {
+    "SP": 693,
+    "Order": "RQBBKNNR"
+  },
+  {
+    "SP": 694,
+    "Order": "RQBKNBNR"
+  },
+  {
+    "SP": 695,
+    "Order": "RQBKNNRB"
+  },
+  {
+    "SP": 696,
+    "Order": "RBQKBNNR"
+  },
+  {
+    "SP": 697,
+    "Order": "RQKBBNNR"
+  },
+  {
+    "SP": 698,
+    "Order": "RQKNBBNR"
+  },
+  {
+    "SP": 699,
+    "Order": "RQKNBNRB"
+  },
+  {
+    "SP": 700,
+    "Order": "RBQKNNBR"
+  },
+  {
+    "SP": 701,
+    "Order": "RQKBNNBR"
+  },
+  {
+    "SP": 702,
+    "Order": "RQKNNBBR"
+  },
+  {
+    "SP": 703,
+    "Order": "RQKNNRBB"
+  },
+  {
+    "SP": 704,
+    "Order": "BBRKQNNR"
+  },
+  {
+    "SP": 705,
+    "Order": "BRKBQNNR"
+  },
+  {
+    "SP": 706,
+    "Order": "BRKQNBNR"
+  },
+  {
+    "SP": 707,
+    "Order": "BRKQNNRB"
+  },
+  {
+    "SP": 708,
+    "Order": "RBBKQNNR"
+  },
+  {
+    "SP": 709,
+    "Order": "RKBBQNNR"
+  },
+  {
+    "SP": 710,
+    "Order": "RKBQNBNR"
+  },
+  {
+    "SP": 711,
+    "Order": "RKBQNNRB"
+  },
+  {
+    "SP": 712,
+    "Order": "RBKQBNNR"
+  },
+  {
+    "SP": 713,
+    "Order": "RKQBBNNR"
+  },
+  {
+    "SP": 714,
+    "Order": "RKQNBBNR"
+  },
+  {
+    "SP": 715,
+    "Order": "RKQNBNRB"
+  },
+  {
+    "SP": 716,
+    "Order": "RBKQNNBR"
+  },
+  {
+    "SP": 717,
+    "Order": "RKQBNNBR"
+  },
+  {
+    "SP": 718,
+    "Order": "RKQNNBBR"
+  },
+  {
+    "SP": 719,
+    "Order": "RKQNNRBB"
+  },
+  {
+    "SP": 720,
+    "Order": "BBRKNQNR"
+  },
+  {
+    "SP": 721,
+    "Order": "BRKBNQNR"
+  },
+  {
+    "SP": 722,
+    "Order": "BRKNQBNR"
+  },
+  {
+    "SP": 723,
+    "Order": "BRKNQNRB"
+  },
+  {
+    "SP": 724,
+    "Order": "RBBKNQNR"
+  },
+  {
+    "SP": 725,
+    "Order": "RKBBNQNR"
+  },
+  {
+    "SP": 726,
+    "Order": "RKBNQBNR"
+  },
+  {
+    "SP": 727,
+    "Order": "RKBNQNRB"
+  },
+  {
+    "SP": 728,
+    "Order": "RBKNBQNR"
+  },
+  {
+    "SP": 729,
+    "Order": "RKNBBQNR"
+  },
+  {
+    "SP": 730,
+    "Order": "RKNQBBNR"
+  },
+  {
+    "SP": 731,
+    "Order": "RKNQBNRB"
+  },
+  {
+    "SP": 732,
+    "Order": "RBKNQNBR"
+  },
+  {
+    "SP": 733,
+    "Order": "RKNBQNBR"
+  },
+  {
+    "SP": 734,
+    "Order": "RKNQNBBR"
+  },
+  {
+    "SP": 735,
+    "Order": "RKNQNRBB"
+  },
+  {
+    "SP": 736,
+    "Order": "BBRKNNQR"
+  },
+  {
+    "SP": 737,
+    "Order": "BRKBNNQR"
+  },
+  {
+    "SP": 738,
+    "Order": "BRKNNBQR"
+  },
+  {
+    "SP": 739,
+    "Order": "BRKNNQRB"
+  },
+  {
+    "SP": 740,
+    "Order": "RBBKNNQR"
+  },
+  {
+    "SP": 741,
+    "Order": "RKBBNNQR"
+  },
+  {
+    "SP": 742,
+    "Order": "RKBNNBQR"
+  },
+  {
+    "SP": 743,
+    "Order": "RKBNNQRB"
+  },
+  {
+    "SP": 744,
+    "Order": "RBKNBNQR"
+  },
+  {
+    "SP": 745,
+    "Order": "RKNBBNQR"
+  },
+  {
+    "SP": 746,
+    "Order": "RKNNBBQR"
+  },
+  {
+    "SP": 747,
+    "Order": "RKNNBQRB"
+  },
+  {
+    "SP": 748,
+    "Order": "RBKNNQBR"
+  },
+  {
+    "SP": 749,
+    "Order": "RKNBNQBR"
+  },
+  {
+    "SP": 750,
+    "Order": "RKNNQBBR"
+  },
+  {
+    "SP": 751,
+    "Order": "RKNNQRBB"
+  },
+  {
+    "SP": 752,
+    "Order": "BBRKNNRQ"
+  },
+  {
+    "SP": 753,
+    "Order": "BRKBNNRQ"
+  },
+  {
+    "SP": 754,
+    "Order": "BRKNNBRQ"
+  },
+  {
+    "SP": 755,
+    "Order": "BRKNNRQB"
+  },
+  {
+    "SP": 756,
+    "Order": "RBBKNNRQ"
+  },
+  {
+    "SP": 757,
+    "Order": "RKBBNNRQ"
+  },
+  {
+    "SP": 758,
+    "Order": "RKBNNBRQ"
+  },
+  {
+    "SP": 759,
+    "Order": "RKBNNRQB"
+  },
+  {
+    "SP": 760,
+    "Order": "RBKNBNRQ"
+  },
+  {
+    "SP": 761,
+    "Order": "RKNBBNRQ"
+  },
+  {
+    "SP": 762,
+    "Order": "RKNNBBRQ"
+  },
+  {
+    "SP": 763,
+    "Order": "RKNNBRQB"
+  },
+  {
+    "SP": 764,
+    "Order": "RBKNNRBQ"
+  },
+  {
+    "SP": 765,
+    "Order": "RKNBNRBQ"
+  },
+  {
+    "SP": 766,
+    "Order": "RKNNRBBQ"
+  },
+  {
+    "SP": 767,
+    "Order": "RKNNRQBB"
+  },
+  {
+    "SP": 768,
+    "Order": "BBQRKNRN"
+  },
+  {
+    "SP": 769,
+    "Order": "BQRBKNRN"
+  },
+  {
+    "SP": 770,
+    "Order": "BQRKNBRN"
+  },
+  {
+    "SP": 771,
+    "Order": "BQRKNRNB"
+  },
+  {
+    "SP": 772,
+    "Order": "QBBRKNRN"
+  },
+  {
+    "SP": 773,
+    "Order": "QRBBKNRN"
+  },
+  {
+    "SP": 774,
+    "Order": "QRBKNBRN"
+  },
+  {
+    "SP": 775,
+    "Order": "QRBKNRNB"
+  },
+  {
+    "SP": 776,
+    "Order": "QBRKBNRN"
+  },
+  {
+    "SP": 777,
+    "Order": "QRKBBNRN"
+  },
+  {
+    "SP": 778,
+    "Order": "QRKNBBRN"
+  },
+  {
+    "SP": 779,
+    "Order": "QRKNBRNB"
+  },
+  {
+    "SP": 780,
+    "Order": "QBRKNRBN"
+  },
+  {
+    "SP": 781,
+    "Order": "QRKBNRBN"
+  },
+  {
+    "SP": 782,
+    "Order": "QRKNRBBN"
+  },
+  {
+    "SP": 783,
+    "Order": "QRKNRNBB"
+  },
+  {
+    "SP": 784,
+    "Order": "BBRQKNRN"
+  },
+  {
+    "SP": 785,
+    "Order": "BRQBKNRN"
+  },
+  {
+    "SP": 786,
+    "Order": "BRQKNBRN"
+  },
+  {
+    "SP": 787,
+    "Order": "BRQKNRNB"
+  },
+  {
+    "SP": 788,
+    "Order": "RBBQKNRN"
+  },
+  {
+    "SP": 789,
+    "Order": "RQBBKNRN"
+  },
+  {
+    "SP": 790,
+    "Order": "RQBKNBRN"
+  },
+  {
+    "SP": 791,
+    "Order": "RQBKNRNB"
+  },
+  {
+    "SP": 792,
+    "Order": "RBQKBNRN"
+  },
+  {
+    "SP": 793,
+    "Order": "RQKBBNRN"
+  },
+  {
+    "SP": 794,
+    "Order": "RQKNBBRN"
+  },
+  {
+    "SP": 795,
+    "Order": "RQKNBRNB"
+  },
+  {
+    "SP": 796,
+    "Order": "RBQKNRBN"
+  },
+  {
+    "SP": 797,
+    "Order": "RQKBNRBN"
+  },
+  {
+    "SP": 798,
+    "Order": "RQKNRBBN"
+  },
+  {
+    "SP": 799,
+    "Order": "RQKNRNBB"
+  },
+  {
+    "SP": 800,
+    "Order": "BBRKQNRN"
+  },
+  {
+    "SP": 801,
+    "Order": "BRKBQNRN"
+  },
+  {
+    "SP": 802,
+    "Order": "BRKQNBRN"
+  },
+  {
+    "SP": 803,
+    "Order": "BRKQNRNB"
+  },
+  {
+    "SP": 804,
+    "Order": "RBBKQNRN"
+  },
+  {
+    "SP": 805,
+    "Order": "RKBBQNRN"
+  },
+  {
+    "SP": 806,
+    "Order": "RKBQNBRN"
+  },
+  {
+    "SP": 807,
+    "Order": "RKBQNRNB"
+  },
+  {
+    "SP": 808,
+    "Order": "RBKQBNRN"
+  },
+  {
+    "SP": 809,
+    "Order": "RKQBBNRN"
+  },
+  {
+    "SP": 810,
+    "Order": "RKQNBBRN"
+  },
+  {
+    "SP": 811,
+    "Order": "RKQNBRNB"
+  },
+  {
+    "SP": 812,
+    "Order": "RBKQNRBN"
+  },
+  {
+    "SP": 813,
+    "Order": "RKQBNRBN"
+  },
+  {
+    "SP": 814,
+    "Order": "RKQNRBBN"
+  },
+  {
+    "SP": 815,
+    "Order": "RKQNRNBB"
+  },
+  {
+    "SP": 816,
+    "Order": "BBRKNQRN"
+  },
+  {
+    "SP": 817,
+    "Order": "BRKBNQRN"
+  },
+  {
+    "SP": 818,
+    "Order": "BRKNQBRN"
+  },
+  {
+    "SP": 819,
+    "Order": "BRKNQRNB"
+  },
+  {
+    "SP": 820,
+    "Order": "RBBKNQRN"
+  },
+  {
+    "SP": 821,
+    "Order": "RKBBNQRN"
+  },
+  {
+    "SP": 822,
+    "Order": "RKBNQBRN"
+  },
+  {
+    "SP": 823,
+    "Order": "RKBNQRNB"
+  },
+  {
+    "SP": 824,
+    "Order": "RBKNBQRN"
+  },
+  {
+    "SP": 825,
+    "Order": "RKNBBQRN"
+  },
+  {
+    "SP": 826,
+    "Order": "RKNQBBRN"
+  },
+  {
+    "SP": 827,
+    "Order": "RKNQBRNB"
+  },
+  {
+    "SP": 828,
+    "Order": "RBKNQRBN"
+  },
+  {
+    "SP": 829,
+    "Order": "RKNBQRBN"
+  },
+  {
+    "SP": 830,
+    "Order": "RKNQRBBN"
+  },
+  {
+    "SP": 831,
+    "Order": "RKNQRNBB"
+  },
+  {
+    "SP": 832,
+    "Order": "BBRKNRQN"
+  },
+  {
+    "SP": 833,
+    "Order": "BRKBNRQN"
+  },
+  {
+    "SP": 834,
+    "Order": "BRKNRBQN"
+  },
+  {
+    "SP": 835,
+    "Order": "BRKNRQNB"
+  },
+  {
+    "SP": 836,
+    "Order": "RBBKNRQN"
+  },
+  {
+    "SP": 837,
+    "Order": "RKBBNRQN"
+  },
+  {
+    "SP": 838,
+    "Order": "RKBNRBQN"
+  },
+  {
+    "SP": 839,
+    "Order": "RKBNRQNB"
+  },
+  {
+    "SP": 840,
+    "Order": "RBKNBRQN"
+  },
+  {
+    "SP": 841,
+    "Order": "RKNBBRQN"
+  },
+  {
+    "SP": 842,
+    "Order": "RKNRBBQN"
+  },
+  {
+    "SP": 843,
+    "Order": "RKNRBQNB"
+  },
+  {
+    "SP": 844,
+    "Order": "RBKNRQBN"
+  },
+  {
+    "SP": 845,
+    "Order": "RKNBRQBN"
+  },
+  {
+    "SP": 846,
+    "Order": "RKNRQBBN"
+  },
+  {
+    "SP": 847,
+    "Order": "RKNRQNBB"
+  },
+  {
+    "SP": 848,
+    "Order": "BBRKNRNQ"
+  },
+  {
+    "SP": 849,
+    "Order": "BRKBNRNQ"
+  },
+  {
+    "SP": 850,
+    "Order": "BRKNRBNQ"
+  },
+  {
+    "SP": 851,
+    "Order": "BRKNRNQB"
+  },
+  {
+    "SP": 852,
+    "Order": "RBBKNRNQ"
+  },
+  {
+    "SP": 853,
+    "Order": "RKBBNRNQ"
+  },
+  {
+    "SP": 854,
+    "Order": "RKBNRBNQ"
+  },
+  {
+    "SP": 855,
+    "Order": "RKBNRNQB"
+  },
+  {
+    "SP": 856,
+    "Order": "RBKNBRNQ"
+  },
+  {
+    "SP": 857,
+    "Order": "RKNBBRNQ"
+  },
+  {
+    "SP": 858,
+    "Order": "RKNRBBNQ"
+  },
+  {
+    "SP": 859,
+    "Order": "RKNRBNQB"
+  },
+  {
+    "SP": 860,
+    "Order": "RBKNRNBQ"
+  },
+  {
+    "SP": 861,
+    "Order": "RKNBRNBQ"
+  },
+  {
+    "SP": 862,
+    "Order": "RKNRNBBQ"
+  },
+  {
+    "SP": 863,
+    "Order": "RKNRNQBB"
+  },
+  {
+    "SP": 864,
+    "Order": "BBQRKRNN"
+  },
+  {
+    "SP": 865,
+    "Order": "BQRBKRNN"
+  },
+  {
+    "SP": 866,
+    "Order": "BQRKRBNN"
+  },
+  {
+    "SP": 867,
+    "Order": "BQRKRNNB"
+  },
+  {
+    "SP": 868,
+    "Order": "QBBRKRNN"
+  },
+  {
+    "SP": 869,
+    "Order": "QRBBKRNN"
+  },
+  {
+    "SP": 870,
+    "Order": "QRBKRBNN"
+  },
+  {
+    "SP": 871,
+    "Order": "QRBKRNNB"
+  },
+  {
+    "SP": 872,
+    "Order": "QBRKBRNN"
+  },
+  {
+    "SP": 873,
+    "Order": "QRKBBRNN"
+  },
+  {
+    "SP": 874,
+    "Order": "QRKRBBNN"
+  },
+  {
+    "SP": 875,
+    "Order": "QRKRBNNB"
+  },
+  {
+    "SP": 876,
+    "Order": "QBRKRNBN"
+  },
+  {
+    "SP": 877,
+    "Order": "QRKBRNBN"
+  },
+  {
+    "SP": 878,
+    "Order": "QRKRNBBN"
+  },
+  {
+    "SP": 879,
+    "Order": "QRKRNNBB"
+  },
+  {
+    "SP": 880,
+    "Order": "BBRQKRNN"
+  },
+  {
+    "SP": 881,
+    "Order": "BRQBKRNN"
+  },
+  {
+    "SP": 882,
+    "Order": "BRQKRBNN"
+  },
+  {
+    "SP": 883,
+    "Order": "BRQKRNNB"
+  },
+  {
+    "SP": 884,
+    "Order": "RBBQKRNN"
+  },
+  {
+    "SP": 885,
+    "Order": "RQBBKRNN"
+  },
+  {
+    "SP": 886,
+    "Order": "RQBKRBNN"
+  },
+  {
+    "SP": 887,
+    "Order": "RQBKRNNB"
+  },
+  {
+    "SP": 888,
+    "Order": "RBQKBRNN"
+  },
+  {
+    "SP": 889,
+    "Order": "RQKBBRNN"
+  },
+  {
+    "SP": 890,
+    "Order": "RQKRBBNN"
+  },
+  {
+    "SP": 891,
+    "Order": "RQKRBNNB"
+  },
+  {
+    "SP": 892,
+    "Order": "RBQKRNBN"
+  },
+  {
+    "SP": 893,
+    "Order": "RQKBRNBN"
+  },
+  {
+    "SP": 894,
+    "Order": "RQKRNBBN"
+  },
+  {
+    "SP": 895,
+    "Order": "RQKRNNBB"
+  },
+  {
+    "SP": 896,
+    "Order": "BBRKQRNN"
+  },
+  {
+    "SP": 897,
+    "Order": "BRKBQRNN"
+  },
+  {
+    "SP": 898,
+    "Order": "BRKQRBNN"
+  },
+  {
+    "SP": 899,
+    "Order": "BRKQRNNB"
+  },
+  {
+    "SP": 900,
+    "Order": "RBBKQRNN"
+  },
+  {
+    "SP": 901,
+    "Order": "RKBBQRNN"
+  },
+  {
+    "SP": 902,
+    "Order": "RKBQRBNN"
+  },
+  {
+    "SP": 903,
+    "Order": "RKBQRNNB"
+  },
+  {
+    "SP": 904,
+    "Order": "RBKQBRNN"
+  },
+  {
+    "SP": 905,
+    "Order": "RKQBBRNN"
+  },
+  {
+    "SP": 906,
+    "Order": "RKQRBBNN"
+  },
+  {
+    "SP": 907,
+    "Order": "RKQRBNNB"
+  },
+  {
+    "SP": 908,
+    "Order": "RBKQRNBN"
+  },
+  {
+    "SP": 909,
+    "Order": "RKQBRNBN"
+  },
+  {
+    "SP": 910,
+    "Order": "RKQRNBBN"
+  },
+  {
+    "SP": 911,
+    "Order": "RKQRNNBB"
+  },
+  {
+    "SP": 912,
+    "Order": "BBRKRQNN"
+  },
+  {
+    "SP": 913,
+    "Order": "BRKBRQNN"
+  },
+  {
+    "SP": 914,
+    "Order": "BRKRQBNN"
+  },
+  {
+    "SP": 915,
+    "Order": "BRKRQNNB"
+  },
+  {
+    "SP": 916,
+    "Order": "RBBKRQNN"
+  },
+  {
+    "SP": 917,
+    "Order": "RKBBRQNN"
+  },
+  {
+    "SP": 918,
+    "Order": "RKBRQBNN"
+  },
+  {
+    "SP": 919,
+    "Order": "RKBRQNNB"
+  },
+  {
+    "SP": 920,
+    "Order": "RBKRBQNN"
+  },
+  {
+    "SP": 921,
+    "Order": "RKRBBQNN"
+  },
+  {
+    "SP": 922,
+    "Order": "RKRQBBNN"
+  },
+  {
+    "SP": 923,
+    "Order": "RKRQBNNB"
+  },
+  {
+    "SP": 924,
+    "Order": "RBKRQNBN"
+  },
+  {
+    "SP": 925,
+    "Order": "RKRBQNBN"
+  },
+  {
+    "SP": 926,
+    "Order": "RKRQNBBN"
+  },
+  {
+    "SP": 927,
+    "Order": "RKRQNNBB"
+  },
+  {
+    "SP": 928,
+    "Order": "BBRKRNQN"
+  },
+  {
+    "SP": 929,
+    "Order": "BRKBRNQN"
+  },
+  {
+    "SP": 930,
+    "Order": "BRKRNBQN"
+  },
+  {
+    "SP": 931,
+    "Order": "BRKRNQNB"
+  },
+  {
+    "SP": 932,
+    "Order": "RBBKRNQN"
+  },
+  {
+    "SP": 933,
+    "Order": "RKBBRNQN"
+  },
+  {
+    "SP": 934,
+    "Order": "RKBRNBQN"
+  },
+  {
+    "SP": 935,
+    "Order": "RKBRNQNB"
+  },
+  {
+    "SP": 936,
+    "Order": "RBKRBNQN"
+  },
+  {
+    "SP": 937,
+    "Order": "RKRBBNQN"
+  },
+  {
+    "SP": 938,
+    "Order": "RKRNBBQN"
+  },
+  {
+    "SP": 939,
+    "Order": "RKRNBQNB"
+  },
+  {
+    "SP": 940,
+    "Order": "RBKRNQBN"
+  },
+  {
+    "SP": 941,
+    "Order": "RKRBNQBN"
+  },
+  {
+    "SP": 942,
+    "Order": "RKRNQBBN"
+  },
+  {
+    "SP": 943,
+    "Order": "RKRNQNBB"
+  },
+  {
+    "SP": 944,
+    "Order": "BBRKRNNQ"
+  },
+  {
+    "SP": 945,
+    "Order": "BRKBRNNQ"
+  },
+  {
+    "SP": 946,
+    "Order": "BRKRNBNQ"
+  },
+  {
+    "SP": 947,
+    "Order": "BRKRNNQB"
+  },
+  {
+    "SP": 948,
+    "Order": "RBBKRNNQ"
+  },
+  {
+    "SP": 949,
+    "Order": "RKBBRNNQ"
+  },
+  {
+    "SP": 950,
+    "Order": "RKBRNBNQ"
+  },
+  {
+    "SP": 951,
+    "Order": "RKBRNNQB"
+  },
+  {
+    "SP": 952,
+    "Order": "RBKRBNNQ"
+  },
+  {
+    "SP": 953,
+    "Order": "RKRBBNNQ"
+  },
+  {
+    "SP": 954,
+    "Order": "RKRNBBNQ"
+  },
+  {
+    "SP": 955,
+    "Order": "RKRNBNQB"
+  },
+  {
+    "SP": 956,
+    "Order": "RBKRNNBQ"
+  },
+  {
+    "SP": 957,
+    "Order": "RKRBNNBQ"
+  },
+  {
+    "SP": 958,
+    "Order": "RKRNNBBQ"
+  },
+  {
+    "SP": 959,
+    "Order": "RKRNNQBB"
+  }
+]

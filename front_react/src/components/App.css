@@ -1,0 +1,188 @@
+@media only screen and (max-width: 400px) {
+  /* For mobile phones: */
+  .chess-board{
+    width: 100% !important;
+    flex: 0 !important;
+  }
+  .login-form {
+    margin-top: 40% !important;
+  }
+  .date {
+    width: 91% !important;
+  }
+  .error-message {
+    width: 80% !important;
+  }
+  .player-history{
+    margin: 10px 0px !important;
+    width: 100% !important;
+  }
+  .player-info{
+    flex-direction: column !important;
+  }
+  .player-personal{
+    width: 90% !important;
+  }
+}
+.App-link {
+  color: #09d3ac;
+  
+}
+
+.Footer {
+  display: flex;
+  text-align: center;
+  font-size: 100%;
+  justify-content: space-around;
+  background-color: #0d7377;
+}
+
+.Header {
+  text-align: center;
+  font-size: 100%;
+  background-color: #0d7377;
+}
+
+.Root{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #737373;
+}
+
+.is-Centered{
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  flex-direction: column;
+}
+
+.chess-board {
+  background-color: #212121;
+  width: 50%;
+  margin: auto;
+  flex: 1;
+}
+
+.chess-cell{
+  width: 11.875%;
+  padding: 9px;
+  margin: 1px;
+}
+
+.chess-column-indicator {
+  display: flex;
+  color: #ffffff;
+}
+
+.chess-column{
+  width: 11.875%;
+  height: auto;
+  text-align: center;
+  margin: auto;
+}
+
+.chess-id{
+  width: 5%;
+  text-align: center;
+  vertical-align: bottom;
+  margin: auto;
+  color: #ffffff;
+}
+
+.chess-row{
+  display: flex;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  background-color: #730000;
+  border: #ff0000 solid .1em;
+  width: 20%;
+  margin: auto auto 0 auto;
+}
+
+.form-actions{
+  margin: auto;
+}
+
+.form-group {
+  width: 70%;
+  margin:auto;
+}
+
+.form-group h1{
+  text-align: center;
+}
+
+.form-input input{
+  font-size: 1.5em;
+  margin: 10px auto;
+  border: 0;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.form-input{
+    display: flex;
+    width: 100%;
+}
+
+.form-group .btn{
+  border: #212122 solid 1px;
+  border-radius: 3px;
+  background-color: #212121;
+  color: #ffffff;
+  margin-left: 40px;
+}
+
+.piece-image {
+  width: 100%;
+  margin: auto;
+}
+
+.player-history{
+  width: 50%;
+  margin: 10px 30px;
+  border: #000000 solid .2em;
+}
+
+.player-personal{
+  width: 50%;
+}
+
+.player-info{
+  display: flex;
+  flex: 1;
+  margin: auto;
+  width: 90%;
+}
+
+.start {
+  display: flex;
+  margin: auto;
+  flex: 1;
+}
+
+.main-view-button {
+  margin: auto;
+  width: 100%;
+}
+.container {
+      margin: auto;
+    width: 100%;
+}
+
+.container-button {
+  margin: 10px;
+    background-color: #0d7377;
+    width: 100%;
+    height: 40px;
+}
+
+.main-view-button {
+  margin: auto;
+    font-size: 30px;
+    width: 100%;
+}
