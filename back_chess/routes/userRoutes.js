@@ -3,13 +3,13 @@ const gameController = require('../controllers/gameController');
 const auth = require('./auth');
 
 var userRoutes = (app) => {
- app.post('/user/signup', userController.signup);
+ app.post('/api/user/signup', userController.signup);
 
- app.post('/user/login', userController.signin);
+ app.post('/api/user/login', userController.signin);
  
- app.get('/user/:id',auth.required, userController.getuser);
+ app.get('/api/user/:id',auth.required, userController.getuser);
  
- app.get('/start', auth.required, gameController.startGame);
+ app.get('/api/start', auth.required, gameController.startGame);
 }
 
 module.exports = userRoutes;
