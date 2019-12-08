@@ -11,7 +11,7 @@ const SignUp = ({signin}) => {
          e.preventDefault();
          let password =e.target.password.value;
         if(/^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$/.test(password)){
-             axios.post('http://54.86.241.66:8080/user/signup',
+             axios.post('http://54.86.241.66:8080/api/user/signup',
                 {
                     username: e.target.username.value,
                     email: e.target.email.value,

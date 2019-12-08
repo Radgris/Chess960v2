@@ -14,7 +14,7 @@ function App({jwt, startBoard}) {
   }
   const startGame = (e) => {
     e.preventDefault();
-    axios.get('http://ec2-54-86-241-66.compute-1.amazonaws.com:8080/start', { 'headers': { 'authorization': `Token ${jwt}` } })
+    axios.get('http://ec2-54-86-241-66.compute-1.amazonaws.com:8080/api/start', { 'headers': { 'authorization': `Token ${jwt}` } })
     .then((res)=>{
       startBoard(res.data.Order);
       history.push('/board');

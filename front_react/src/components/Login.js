@@ -10,7 +10,7 @@ const Login = ({signin}) => {
     let [error, setError] = useState({});
     const handleSubmit = (e) => {
          e.preventDefault();
-         axios.post('http://54.86.241.66:8080/user/login',
+         axios.post('http://54.86.241.66:8080/api/user/login',
             {
                     username: e.target.username.value,
                     // email: e.target.email.value,
